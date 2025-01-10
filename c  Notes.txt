@@ -1,0 +1,26 @@
+C++ is an object oriented language Used for gaming development .
+
+To  Save the File: using .cpp extension
+
+C++: The full name of the language is C++, which is pronounced "C plus plus". 
+CPP: CPP is sometimes used as an abbreviation for "C Plus Plus". 
+
+step 1: we need to call header file
+
+#include <iostream>-header file in C++ is used for input and output (I/O) operations.
+
+C++ uses a stream-based model for input and output, where data flows as a stream of bytes.
+
+Advantages :
+
+Type-Safe: Ensures proper data types during input and output.
+
+Readable Syntax: Uses << for output and >> for input, making the code more intuitive.
+
+No Format Specifiers: Unlike printf/scanf, you don't need to remember format specifiers like %d or %s.
+
+Why Use using namespace std;?
+
+Convenience:
+
+It avoids the need to write std:: before standard library components like std::cout, std::cin, std::string, etc.
